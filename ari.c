@@ -48,6 +48,5 @@ case 13:return "College student";
 break; 
 case 14:return "Professor"; 
 break;
-} 
 }
 }
